@@ -1,0 +1,5 @@
+﻿  big3.cpp
+  Randinator.cpp
+D:\OneDrive\Skewl\02_COP3503\ProjectZThree\big3\Randinator.cpp(4,35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PIC.cpp
+sfml-graphics-s.lib(RenderStates.cpp.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
